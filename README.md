@@ -45,6 +45,15 @@ $ yarn run start:dev
 $ yarn run start:prod
 ```
 
+## configration for .env
+
+```bash
+# command
+yarn add @nestjs/config
+
+
+```
+
 ## Test
 
 ```bash
